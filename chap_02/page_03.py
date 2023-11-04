@@ -1,4 +1,4 @@
-from .function import chapter, big_chapter
+from function import chapter, big_chapter
 from nltk.stem import WordNetLemmatizer, PorterStemmer
 from nltk.stem import LancasterStemmer
 from nltk.tokenize import word_tokenize
